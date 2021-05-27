@@ -89,7 +89,3 @@ Download QMNIST dataset using torchvision
 | *Coreset selection performance on QMNIST* |
 
 
-=======
-# unsupervised_coreset_selection
-pytorch source code for unsupervised coreset selection
-
